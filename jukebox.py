@@ -1,3 +1,6 @@
+name = "BrandonDavis"
+date = "9/24"
+project = "jukebox"
 make_jukebox = {
     'artist_one': "J.Cole",
     'artist_two': "Kendrick Lamar",
